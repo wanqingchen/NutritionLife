@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "496623247431",
+    "firebase_url": "https://nutritionlife-5c0d0.firebaseio.com",
+    "project_id": "nutritionlife-5c0d0",
+    "storage_bucket": "nutritionlife-5c0d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496623247431:android:42c098d6a3a51b9c",
+        "android_client_info": {
+          "package_name": "com.example.wanqingchen.nutritionlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496623247431-gqpfsvft88nie74660j5gu4og4oqf25c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsTvmSVh7Ks1GX2bGdYOQXC7ZF2Gdf1wo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
